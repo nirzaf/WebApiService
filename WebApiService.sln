@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiService", "WebApiService\WebApiService.csproj", "{68823700-56F1-4E99-9AAC-DFB039560548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68823700-56F1-4E99-9AAC-DFB039560548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68823700-56F1-4E99-9AAC-DFB039560548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68823700-56F1-4E99-9AAC-DFB039560548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68823700-56F1-4E99-9AAC-DFB039560548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
