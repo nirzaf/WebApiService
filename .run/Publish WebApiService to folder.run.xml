@@ -1,0 +1,6 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Publish WebApiService to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+    <riderPublish configuration="Release" delete_existing_files="true" platform="Any CPU" runtime="Portable" target_folder="Y:/My Folders/WeatherService" target_framework="net8.0" uuid_high="7530642001515073177" uuid_low="-7301214947905239736" />
+    <method v="2" />
+  </configuration>
+</component>
